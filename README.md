@@ -45,4 +45,5 @@
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudunnabikajal&show_icons=true&locale=en&layout=compact" alt="mahmudunnabikajal" /></p>
 -->
+ <a href="https://github.com/mahmudunnabikajal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudunnabikajal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mahmudunnabikajal github stats" /></a> | <a href="https://github.com/mahmudunnabikajal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudunnabikajal&layout=compact&theme=buefy&hide_border=true" /></a>
 
