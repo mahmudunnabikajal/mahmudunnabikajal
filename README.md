@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudunnabikajal&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudunnabikajal" /> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **JavaScript** & **Vue.js**
 - 💬 Ask me about **Website Consistency**
 - 📫 Replit Profile **https://replit.com/@Mahmudun-NabiNa**
 - 📫 How to reach me **mahmudunnabikajal@gmail.com**
@@ -21,15 +21,16 @@
 <p align="left">
   
 <h5 align="left">Frontend :</h5>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 
 <h5 align="left">Backend :</h5>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/favicon.ico" alt="mysql" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 
 <h5 align="left">Database :</h5>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -42,6 +43,4 @@
 
 
 </p>
-<!--
- <a href="https://github.com/mahmudunnabikajal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudunnabikajal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mahmudunnabikajal github stats" /></a> | <a href="https://github.com/mahmudunnabikajal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudunnabikajal&layout=compact&theme=buefy&hide_border=true" /></a>
--->
+<!--  <a href="https://github.com/mahmudunnabikajal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudunnabikajal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mahmudunnabikajal github stats" /></a> | <a href="https://github.com/mahmudunnabikajal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudunnabikajal&layout=compact&theme=buefy&hide_border=true" /></a> -->
