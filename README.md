@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript** & **Vue.js**
 - 💬 Ask me about **Website Consistency**
-- 📫 Replit Profile **https://replit.com/@Mahmudun-NabiNa**
+- 📫 Replit Profile **[https://replit.com/@Mahmudun-NabiNa](https://replit.com/@Mahmudun-NabiNa?tab=repls)**
 - 📫 How to reach me **mahmudunnabikajal@gmail.com**
 
 
@@ -26,7 +26,8 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a></a>
+<a href="https://vuex.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuex" width="40" height="40"/> </a>
 
 <h5 align="left">Backend :</h5>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.php.net/favicon.ico" alt="mysql" width="40" height="40"/> </a>
