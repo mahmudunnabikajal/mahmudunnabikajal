@@ -3,14 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudunnabikajal&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudunnabikajal" /> </p>
 
-- 🌱 I’m currently learning **JavaScript** & **Vue.js**
+- 🌱 I’m currently learning **Docker**
 - 💬 Ask me about **Website Consistency**
+- 🔭 I'm a maintainer of [vuejs-translations](https://github.com/vuejs-translations) Bangla docs team.
+- 🌱 Currently focusing on the following tasks.
+  - Bangla translation for [docs-bn](https://github.com/vuejs-translations/docs-bn) live on bn.vuejs.org(coming soon).
+  - Developing personal website with Nuxt.
+<!-- 
 - 📫 Replit Profile **[https://replit.com/@Mahmudun-NabiNa](https://replit.com/@Mahmudun-NabiNa?tab=repls)**
 - 📫 How to reach me **mahmudunnabikajal@gmail.com**
+-->
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:mahmudunnabikajal"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mahmudun_nabi_kajal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmudun-nabi-kajal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudun-nabi-kajal" height="30" width="40" /></a>
 <a href="https://fb.com/mahmudunnabikajal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmudunnabikajal" height="30" width="40" /></a>
 <a href="https://instagram.com/mahmudun_nabi_kajal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmudun_nabi_kajal" height="30" width="40" /></a>
