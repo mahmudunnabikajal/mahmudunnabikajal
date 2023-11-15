@@ -7,7 +7,7 @@
 - 💬 Ask me about **Website Consistency**
 - 🔭 I'm a maintainer of [vuejs-translations](https://github.com/vuejs-translations) Bangla docs team.
 - 🌱 Currently focusing on the following tasks.
-  - Bangla translation for [docs-bn](https://github.com/vuejs-translations/docs-bn) live on [bn.vuejs.org](https://bn.vuejs.org/).
+  - Maintain Bangla translation for [docs-bn](https://github.com/vuejs-translations/docs-bn) live on [bn.vuejs.org](https://bn.vuejs.org/).
   - Developing personal website with Nuxt.
 <!-- 
 - 📫 Replit Profile **[https://replit.com/@Mahmudun-NabiNa](https://replit.com/@Mahmudun-NabiNa?tab=repls)**
