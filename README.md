@@ -44,6 +44,7 @@ All other tools/frameworks/languages are for team-work/collaboration with other 
         <img title="Nuxt" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40">
         <img title="Vuex" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" width="40" height="40">
         <img title="Pinia"  src="https://pinia.vuejs.org/logo.svg" width="40" height="40">
+        <img title="React.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40">
       </td>
     </tr>
    <tr>
