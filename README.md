@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmudun Nabi Kajal</h1>
 <h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudunnabikajal&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudunnabikajal" /><img src="https://www.codewars.com/users/mahmudunnabikajal/badges/micro" alt="mahmudunnabikajal-codewar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudunnabikajal&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudunnabikajal" /> </p>
 
 - 🌱 I’m currently learning **Docker**
 - 💬 Ask me about **Website Consistency**
