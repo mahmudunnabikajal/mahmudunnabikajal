@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahmudun Nabi Kajal</h1>
-<h3 align="center">Software Engineer(Frontend) with 5+ years of experience from Bangladesh</h3>
+<h3 align="center">Full Stack Software Engineer with 5+ years of experience from Bangladesh</h3>
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=mahmudunnabikajal&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudunnabikajal" />
 
-- 🌱 I’m currently preparing for a Product Manager role
+- 🌱 I’m currently preparing for a AI Engineer role
 - 🤝 I’m looking to collaborate on WordPress, SAAS, Chrome Extension, Component Library
 - 👨‍💻 All of my projects are available at [mahmudunnabikajal.com](https://mahmudunnabikajal.com/)
 - 💬 Ask me about software development and engineering topics
