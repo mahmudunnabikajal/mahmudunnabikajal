@@ -4,7 +4,7 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=mahmudunnabikajal&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudunnabikajal" />
 
-- 🌱 I’m currently preparing for a AI Engineer role
+- 🌱 I’m currently preparing for a Full Stack AI Engineer role
 - 🤝 I’m looking to collaborate on WordPress, SAAS, Chrome Extension, Component Library
 - 👨‍💻 All of my projects are available at [mahmudunnabikajal.com](https://mahmudunnabikajal.com/)
 - 💬 Ask me about software development and engineering topics
